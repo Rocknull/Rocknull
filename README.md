@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Rock some of them call mee Rocky but I don't mind
+- 👋 Hi, I’m Rock some of them call me Rocky but I don't mind
 - 👀 I’m interested in Haxeflixel
 - 🌱 I’m currently learning Haxeflixel haha
-- ⚡ Fun fact: I didn't want to write this but this is useful
+- ⚡ Fun fact: I hate Lencen
+- 🧑‍🤝‍🧑 Polysexual
 - 🤓 Nerd
 
 <!---
